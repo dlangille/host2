@@ -1,4 +1,4 @@
-# host1
+# R720
 Information about the server I'm selling.
 
 I'm not sure if I will keep the SSDs or not.
